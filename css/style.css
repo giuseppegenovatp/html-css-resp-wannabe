@@ -159,6 +159,21 @@ img {
         width: 100%;
         padding: 2rem 2rem;
     }
+
+    
+    .why-us {
+        background-color:#222222 ;
+        margin-bottom: 0;
+    }
+
+    .steps {
+        margin: 0 auto;
+    }
+
+    .text-center {
+        padding-top: 2rem;
+    }
+
   }
   
   @media screen and (min-width: 768px) and (max-width: 1160px) {
